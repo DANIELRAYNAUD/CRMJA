@@ -1,5 +1,5 @@
 {
-  "name": "crmja",
+  "name": "plataforma crmja",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
